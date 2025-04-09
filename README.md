@@ -1,4 +1,4 @@
-# Online Job Portal using Streamlit
+# Online Job Portal 
 
 An interactive, user-friendly online job portal built with **Streamlit**, designed to connect job seekers with potential employers. Inspired by platforms like **LinkedIn** and **Indeed**, this application empowers users with tools for job discovery, resume building, application tracking, and career development.
 
